@@ -9,6 +9,7 @@
 As a junior software developer, I'm still learning the ropes and gaining experience in various areas of software development. My focus right now is on honing my programming skills, familiarizing myself with different technologies, and understanding best practices in software development. I'm eager to take on new challenges and contribute to projects that will help me grow as a developer.Will soon graduate at [**CodeSpace Academy's Software Development course**](https://www.codespace.co.za/programs/software-development/). 
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)  **065 578 4014**
+<br>
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [ndumisonduh523@gmail.com](mailto:ndumisonduh523@gmail.com)
 </tr>
 </table>
@@ -27,7 +28,7 @@ As a junior software developer, I'm still learning the ropes and gaining experie
   
 ### National Senior Certificate
 **Kgatsheng-Thabiso_Seondary** <br>
-*Graduated: Dec 2019* 
+*Graduated: Dec 2021* 
 
 # PERSONAL PROJECTS 
 Github:https://github.com/Ndumiso-Sibanda/Water-Contamination-Awareness <br>
