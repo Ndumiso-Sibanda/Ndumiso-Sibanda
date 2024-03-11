@@ -20,7 +20,7 @@ As a junior software developer, I'm still learning the ropes and gaining experie
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# Education
+//# Education
 
 ### Software Development
 🔗[**CodeSpace Academy**](https://www.codespace.co.za/programs/software-development/) <br>
@@ -28,7 +28,7 @@ As a junior software developer, I'm still learning the ropes and gaining experie
   
 ### National Senior Certificate
 **Kgatsheng-Thabiso_Seondary** <br>
-*Graduated: Dec 2021* 
+*Graduated: Dec 2019* //
 
 # PERSONAL PROJECTS 
 Github:https://github.com/Ndumiso-Sibanda/Water-Contamination-Awareness <br>
