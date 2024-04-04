@@ -28,7 +28,7 @@ As a junior software developer, I'm still learning the ropes and gaining experie
   
 ### National Senior Certificate
 **Kgatsheng-Thabiso_Seondary** <br>
-*Graduated: Dec 2019* //
+*Graduated: Dec 2021* //
 
 # PERSONAL PROJECTS 
 Github:https://github.com/Ndumiso-Sibanda/Water-Contamination-Awareness <br>
